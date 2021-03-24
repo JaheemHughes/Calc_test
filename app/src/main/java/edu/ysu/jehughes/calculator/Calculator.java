@@ -6,7 +6,7 @@ public class Calculator {
     private String input;
     private String previousInput;
     private Operator operator;
-    private boolean clearInput; // small comment
+    private boolean clearInput;
     private boolean hasDecimal;
 
     public Calculator () {
